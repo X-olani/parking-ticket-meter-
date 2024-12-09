@@ -1,0 +1,17 @@
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\dbtickets.db
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\ticketing.exe.config
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\ticketing.exe
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\ticketing.pdb
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.Properties.Resources.resources
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.csproj.GenerateResource.cache
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.exe
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.pdb
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\Dapper.dll
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\System.Data.SQLite.dll
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\Dapper.xml
+C:\Users\xolan\source\repos\ticketing\ticketing\bin\Debug\System.Data.SQLite.xml
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.csproj.CopyComplete
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.mainF.resources
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.loginF.resources
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.csproj.AssemblyReference.cache
+C:\Users\xolan\source\repos\ticketing\ticketing\obj\Debug\ticketing.csproj.CoreCompileInputs.cache
